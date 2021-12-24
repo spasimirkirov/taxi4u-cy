@@ -253,24 +253,28 @@
                 </div>
                 <div class="card-body d-flex justify-content-start">
                     <div class="row">
-                        <div class="col-6 col-md-2 p-2">
+                        <div class="col-4 col-md-2 p-2">
                             <img class="img-fluid" src="viber/car/1.jpg"
                                 alt="Taxi4u - Taxi services">
                         </div>
-                        <div class="col-6 col-md-2 p-2">
+                        <div class="col-4 col-md-2 p-2">
                             <img class="img-fluid" src="viber/car/3.jpg"
                                 alt="Taxi4u - Taxi services">
                         </div>
-                        <div class="col-6 col-md-2 p-2">
+                        <div class="col-4 col-md-2 p-2">
                             <img class="img-fluid" src="viber/car/4.jpg"
                                 alt="Taxi4u - Taxi services">
                         </div>
-                        <div class="col-6 col-md-2 p-2">
+                        <div class="col-4 col-md-2 p-2">
                             <img class="img-fluid" src="viber/car/5.jpg"
                                 alt="Taxi4u - Taxi services">
                         </div>
-                        <div class="col-6 col-md-2 p-2">
+                        <div class="col-4 col-md-2 p-2">
                             <img class="img-fluid" src="viber/car/6.jpg"
+                                alt="Taxi4u - Taxi services">
+                        </div>
+                        <div class="col-4 col-md-2 p-2">
+                            <img class="img-fluid" src="viber/car/2.jpg"
                                 alt="Taxi4u - Taxi services">
                         </div>
                     </div>
