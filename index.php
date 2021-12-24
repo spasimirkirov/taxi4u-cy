@@ -258,10 +258,6 @@
                                 alt="Taxi4u - Taxi services">
                         </div>
                         <div class="col-6 col-md-2 p-2">
-                            <img class="img-fluid" src="viber/car/2.jpg"
-                                alt="Taxi4u - Taxi services">
-                        </div>
-                        <div class="col-6 col-md-2 p-2">
                             <img class="img-fluid" src="viber/car/3.jpg"
                                 alt="Taxi4u - Taxi services">
                         </div>
