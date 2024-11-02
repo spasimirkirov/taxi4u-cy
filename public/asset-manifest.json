@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.039fad34.css",
+    "main.js": "/static/js/main.2c68545d.js",
+    "static/js/453.d53793d9.chunk.js": "/static/js/453.d53793d9.chunk.js",
+    "static/media/excursions.jpg": "/static/media/excursions.fa2ab3bc230e05963435.jpg",
+    "static/media/transfer.jpg": "/static/media/transfer.3645c87cf441f8e6cdd4.jpg",
+    "static/media/woman-with-bags.png": "/static/media/woman-with-bags.b63b9bcb5cf2b2c255fe.png",
+    "static/media/car-side.jpg": "/static/media/car-side.5e6388d4791d02f9eb48.jpg",
+    "static/media/3.jpg": "/static/media/3.08f615e629f9f3c3f778.jpg",
+    "static/media/2.jpg": "/static/media/2.927ff53dab39be1e44dd.jpg",
+    "static/media/4.jpg": "/static/media/4.4204821fabaf04a0a532.jpg",
+    "static/media/1.jpg": "/static/media/1.32633a7fec4e9ca65671.jpg",
+    "static/media/5.jpg": "/static/media/5.eb5933c1fca00a953184.jpg",
+    "static/media/6.jpg": "/static/media/6.24b8a4c6359ed64fd670.jpg",
+    "static/media/logo-large.png": "/static/media/logo-large.bf217b16d46d68a02788.png",
+    "static/media/cyprus_flag.png": "/static/media/cyprus_flag.4d389e8859824e7c5cba.png",
+    "static/media/logo-medium.png": "/static/media/logo-medium.899c2f9dfda1c0fd5c65.png",
+    "index.html": "/index.html",
+    "main.039fad34.css.map": "/static/css/main.039fad34.css.map",
+    "main.2c68545d.js.map": "/static/js/main.2c68545d.js.map",
+    "453.d53793d9.chunk.js.map": "/static/js/453.d53793d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039fad34.css",
+    "static/js/main.2c68545d.js"
+  ]
+}
